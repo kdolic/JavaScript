@@ -1,12 +1,12 @@
 # JavaScript
 
 average.js
-__________
+
 A function to find the average value in an array of numbers
 
 _____________
 playingCard.js
-______________
+
 A getCard() function which returns a random playing card object, like:
  		{
  			value: 'K'
@@ -20,7 +20,7 @@ Return both in an object
 
 __________
 pangram.js
-__________
+
 A pangram is a sentence that contains every letter of the alphabet, like:
 "The quick brown fox jumps over the lazy dog"
 
@@ -31,7 +31,7 @@ A function called isPangram, which checks to see if a given sentence contains ev
 
 ____________________
 passwordValidator.js
-____________________
+
 A isValidPassword function
  It accepts 2 arguments: password and username
  Password must:
