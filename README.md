@@ -4,7 +4,7 @@ average.js
 __________
 A function to find the average value in an array of numbers
 
-
+_____________
 playingCard.js
 ______________
 A getCard() function which returns a random playing card object, like:
@@ -18,7 +18,7 @@ Pick a random suit from:
 ----clubs,spades, hearts, diamonds
 Return both in an object
 
-
+__________
 pangram.js
 __________
 A pangram is a sentence that contains every letter of the alphabet, like:
@@ -29,7 +29,7 @@ A function called isPangram, which checks to see if a given sentence contains ev
  isPangram('The five boxing wizards jump quickly') //true
  isPangram('The five boxing wizards jump quick') //false
 
-
+____________________
 passwordValidator.js
 ____________________
 A isValidPassword function
